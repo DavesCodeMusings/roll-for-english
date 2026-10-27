@@ -1,0 +1,16 @@
+The following colors are used on the hex map:
+
+Border (Sienna) A0522D
+Forest (Forest Green) 228B22
+Grass (Medium Spring Green) 00FA9A
+Mountains (Slate Gray) 708090
+Path (Linen) FAF0E6
+Sand (Sandy Brown) F4A460
+Ocean / River (Medium Blue) 0000CD
+Special Spaces (Goldenrod) FFD700
+Final Battle Site (Orange Red) FF4500
+
+All colors are taken from standard HTML color names.
+
+Reference:
+https://www.w3schools.com/colors/colors_names.asp
