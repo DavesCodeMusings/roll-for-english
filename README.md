@@ -7,9 +7,11 @@ tabletop adventure game for groups of English as a Second Language (ESL) student
 
 **_The game has not been beta tested yet! Use at your own risk._**
 
-If you want to get started right away, download Materials.pdf and print it on
-US letter paper with a color printer. Write in you own learning objectives in
-the 42 path spaces, find a pair of six-sided dice, and go adventuring.
+If you want to get started right away, download
+[Materials.pdf](https://raw.githubusercontent.com/DavesCodeMusings/roll-for-english/main/Materials.pdf)
+and print it on US letter paper with a color printer. Write in you own learning
+objectives in the map's 42 path spaces, find a pair of six-sided dice, and go
+adventuring.
 
 If you want to customize things:
 
