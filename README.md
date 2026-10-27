@@ -15,6 +15,6 @@ adventuring.
 
 If you want to customize things:
 
-1. Use LibreOffice Draw to edit Materials.odg.
-2. Use The GIMP to edit Map.png.
-3. Save your custom PDF and share with your class.
+1. Use [LibreOffice](https://www.libreoffice.org/) Draw to edit Materials.odg.
+2. Use [The GIMP](https://www.gimp.org/) to edit Map.png.
+3. [Save your custom PDF](https://help.libreoffice.org/latest/en-US/text/shared/01/ref_pdf_export.html) and share with your class.
