@@ -16,5 +16,5 @@ of six-sided dice, and go adventuring.
 If you want to customize things:
 
 1. Use [The GIMP](https://www.gimp.org/) to create new maps from Map.xcf.
-2. Use [LibreOffice](https://www.libreoffice.org/) Draw to add a new map to Materials.odg.
+2. Use [LibreOffice](https://www.libreoffice.org/) [Draw](https://www.libreoffice.org/#screenshots) to add a new map to Materials.odg.
 3. [Save your custom PDF](https://help.libreoffice.org/latest/en-US/text/shared/01/ref_pdf_export.html) and share with your class.
