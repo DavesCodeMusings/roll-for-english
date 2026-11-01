@@ -9,12 +9,12 @@ tabletop adventure game for groups of English as a Second Language (ESL) student
 
 If you want to get started right away, download
 [Materials.pdf](https://raw.githubusercontent.com/DavesCodeMusings/roll-for-english/main/Materials.pdf)
-and print it on US letter paper with a color printer. Write in you own learning
-objectives in the map's 42 path spaces, find a pair of six-sided dice, and go
-adventuring.
+and print it on US letter paper with a color printer. Use the included map (or
+write your own learning objectives in the blank map's path spaces), find a pair
+of six-sided dice, and go adventuring.
 
 If you want to customize things:
 
-1. Use [LibreOffice](https://www.libreoffice.org/) Draw to edit Materials.odg.
-2. Use [The GIMP](https://www.gimp.org/) to edit Map.png.
+1. Use [The GIMP](https://www.gimp.org/) to create new maps from Map.xcf.
+2. Use [LibreOffice](https://www.libreoffice.org/) Draw to add a new map to Materials.odg.
 3. [Save your custom PDF](https://help.libreoffice.org/latest/en-US/text/shared/01/ref_pdf_export.html) and share with your class.
