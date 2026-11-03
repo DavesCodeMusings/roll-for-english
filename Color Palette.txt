@@ -2,7 +2,7 @@ The following colors are used on the hex map:
 
 Border (Sienna) A0522D
 Forest (Forest Green) 228B22
-Grass (Medium Spring Green) 00FA9A
+Grass (Pale Green) 98FB98
 Mountains (Slate Gray) 708090
 Path (Linen) FAF0E6
 Sand (Sandy Brown) F4A460
