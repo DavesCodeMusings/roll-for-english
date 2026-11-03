@@ -5,7 +5,7 @@ _Un juego para las clases de inglés como segunda idioma._
 What you will find here are the materials needed to create an English learning
 tabletop adventure game for groups of English as a Second Language (ESL) students.
 
-**_The game has not been beta tested yet! Use at your own risk._**
+**_The game is still being beta tested yet! Use at your own risk._**
 
 If you want to get started right away, download
 [Materials.pdf](https://raw.githubusercontent.com/DavesCodeMusings/roll-for-english/main/Materials.pdf)
